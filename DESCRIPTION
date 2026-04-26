@@ -1,0 +1,10 @@
+Package: hc.knockoffs
+Title: Higher Criticism + Model-X Knockoffs for Strategy Selection
+Version: 0.1.0
+Author: Daniel Vieira Gatto
+Description: Higher Criticism under dependence and Model-X knockoffs for FDR-
+    controlled selection over populations of algorithmic trading strategies.
+License: MIT
+Imports: ggplot2, dplyr, readr, jsonlite
+Suggests: knockoff
+Encoding: UTF-8
