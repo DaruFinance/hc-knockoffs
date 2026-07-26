@@ -1,6 +1,6 @@
 # hc-knockoffs
 
-> Reference implementation for [Sparse signal detection with FDR control](https://www.daru.finance/projects/hc-knockoffs), from the Lab that Daniel Gatto keeps at [daru.finance](https://www.daru.finance).
+> Reference implementation for [Sparse signal detection with FDR control](https://daru.finance/projects/hc-knockoffs), from the Lab that Daniel Gatto keeps at [daru.finance](https://daru.finance).
 
 **Higher Criticism under dependence · Model-X Knockoffs for FDR-controlled
 strategy selection.**
