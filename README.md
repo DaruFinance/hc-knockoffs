@@ -52,7 +52,7 @@ To reproduce the per-asset thesis figure, point the script at the data root
 either via `--data-root` or the `STRATEGY_DATA_ROOT` environment variable:
 
 ```bash
-export STRATEGY_DATA_ROOT="$HOME/PhD_Research"   # adjust for your machine
+export STRATEGY_DATA_ROOT=/path/to/strategy-data
 Rscript scripts/hc_curve.R --data-root "$STRATEGY_DATA_ROOT"
 ```
 
